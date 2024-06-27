@@ -1,4 +1,3 @@
-
 module DataGenerator where
 import System.Random
 import Config
