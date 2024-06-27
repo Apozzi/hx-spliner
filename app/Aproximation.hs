@@ -1,5 +1,3 @@
-
-
 module Aproximation where
 import Data.List (nub, zip4)
 
