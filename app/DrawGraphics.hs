@@ -1,4 +1,3 @@
-
 module DrawGraphics where
 import Graphics.Rendering.OpenGL
 import Config
